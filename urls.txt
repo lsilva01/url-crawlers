@@ -105,3 +105,79 @@ https://1ml.com
 https://bitcoin-irc.chaincode.com
 
 https://www.lopp.net
+
+
+----
+
+https://bitcoinops.org/
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/
+https://lists.linuxfoundation.org/pipermail/lightning-dev/
+https://bitcointalk.org/
+
+https://bitcoin.stackexchange.com/questions/
+Disallow Begins with /questions/tagged/
+Allow Begins with /questions/
+Disallow Regex .*
+Allow Regex .*
+
+https://bitcoinmagazine.com/
+https://en.bitcoin.it/
+https://bitcoin-irc.chaincode.com
+https://www.lopp.net/
+https://jimmysong.medium.com/
+https://petertodd.org/
+https://btctranscripts.com/
+https://b10c.me
+https://zmnscpxj.github.io/
+https://blockstream.com
+https://rubin.io
+
+https://academy.binance.com
+Allow Begins with /en/
+Disallow Regex .*
+Allow Regex .*
+
+https://utxos.org
+https://learn.sapio-lang.org
+https://unchained.com/blog/
+
+https://diyhpl.us/wiki/transcripts/
+Allow Begins with /wiki/transcripts/
+Disallow Regex .*
+Allow Regex .*
+
+https://bitcoin.org/en/
+Allow Begins with /en/
+Disallow Regex .*
+Allow Regex .*
+
+https://www.swanbitcoin.com/signal/
+https://www.swanbitcoin.com/canon/
+
+https://bips.xyz/
+Disallow Begins with /search
+Allow Regex .*
+
+https://walletscrutiny.com/
+https://www.buybitcoinworldwide.com/
+
+https://learnmeabitcoin.com/
+Disallow Begins with /explorer/
+Allow Regex .*
+
+https://simplelightning.com/posts.html
+https://resources.nunchuk.io/
+
+https://www.coindesk.com/
+Disallow Begins with /search
+Allow Regex .*
+
+https://bitcoincore.reviews/
+https://bitcoin-dev.blog/
+https://bitcoindevkit.org/blog/
+https://river.com/learn/
+
+https://medium.com/@cold_sats
+Allow Begins with /@cold_sats
+Disallow Regex .*
+Allow Regex .*
